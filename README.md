@@ -16,7 +16,11 @@ Working: User inputs the location (city name), API request is sent to fetch curr
 Language: Python
 
 GUI Library: PyQt5
+
 API: OpenWeatherMap API 
+
 Requests: For making HTTP calls to the API
+
 JSON: For handling the API response
+
 API Key: '78589088647ed01070d69b333b1fa728'
