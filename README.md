@@ -22,5 +22,3 @@ API: OpenWeatherMap API
 Requests: For making HTTP calls to the API
 
 JSON: For handling the API response
-
-API Key: '78589088647ed01070d69b333b1fa728'
