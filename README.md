@@ -5,9 +5,9 @@ This project is a simple and interactive Weather Forecasting Application built u
 The app allows users to enter any city or location, fetch current weather data using a Weather API, display the temperature, weather description (e.g., cloudy, sunny) and view results in a clean and user-friendly GUI.
 
  Features:
-Real-time weather updates
-User-friendly GUI interface
-API integration for live weather data
+Real-time weather updates,
+User-friendly GUI interface,
+API integration for live weather data,
 Displays Temperature and Weather type/condition
 
 Working: User inputs the location (city name), API request is sent to fetch current weather data and Response is parsed and shown on the GUI
