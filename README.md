@@ -14,6 +14,7 @@ Working: User inputs the location (city name), API request is sent to fetch curr
 
 # Tech Stack
 Language: Python
+
 GUI Library: PyQt5
 API: OpenWeatherMap API 
 Requests: For making HTTP calls to the API
